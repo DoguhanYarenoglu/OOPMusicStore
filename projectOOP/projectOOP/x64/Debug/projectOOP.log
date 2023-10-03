@@ -1,0 +1,3 @@
+﻿  Basket.cpp
+C:\Users\user\Desktop\projectOOP\projectOOP\Basket.cpp(12,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  projectOOP.vcxproj -> C:\Users\user\Desktop\projectOOP\x64\Debug\projectOOP.exe
